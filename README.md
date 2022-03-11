@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/xehoth/mitsuba-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/xehoth/mitsuba-docker/actions/workflows/docker-image.yml)
 
-Dockerfile for mitsuba renderer 0.6.  
+Dockerfile for [mitsuba renderer 0.6](https://github.com/mitsuba-renderer/mitsuba).  
 Build with `ubuntu:latest` (ubuntu 20.04).
 
 ## From Docker Hub
